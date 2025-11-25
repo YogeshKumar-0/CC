@@ -1,6 +1,6 @@
 1: Write a Python script to simulate resource scaling scenarios (horizontal vs. vertical scaling) using simple process/thread creation and control.
 2: Develop a Python program to demonstrate the concept of elasticity by simulating workload increase and resource addition.
-Implement Virtual Machine (VM) creation and management using libvirt and Python bindings, or simulate virtual machine scheduling.
+3: Implement Virtual Machine (VM) creation and management using libvirt and Python bindings, or simulate virtual machine scheduling.
 4: Create a Python script to encrypt and decrypt text data using symmetric (AES) and asymmetric (RSA) encryption techniques.
 5: Write a Python program to simulate load balancing using round-robin or least-connection algorithm across multiple service instances.
 6: Develop a resource monitoring script in Python using psutil to monitor CPU, memory, and disk usage, simulating a cloud monitoring mechanism.
